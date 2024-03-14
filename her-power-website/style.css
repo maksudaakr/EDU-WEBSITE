@@ -1,0 +1,99 @@
+*{
+    font-family: 'Kalpurush', Arial, sans-serif ;
+}
+nav{
+    background-image: linear-gradient(to right, #C084FC, #52D983,#F273B5);
+}
+.logo img{
+    height: 90px;
+}
+.hpp img{
+    height: 600px;
+    width: 1240px;
+}
+.card img{
+    height: 150px;
+}
+.cdbc{
+    background-image: linear-gradient(to right,#fbcfe8,#e9d5ff);
+}
+.cd{
+    background-image: linear-gradient(to right,#fce7f3,#f0fdf4,#f3e8ff);
+}
+.woman{
+    background-image: linear-gradient(to right,#c084fc,#f472b6);
+}
+.crhd{
+    background-image: linear-gradient(to right,#16a34a,#9333ea);
+}
+.year{
+    width: 150px;
+    height: 80px;
+    background-image: linear-gradient(to right,#f3e8ff,#fce7f3);
+}
+.call a{
+    color: blueviolet;
+    background-image: linear-gradient(to right, #d8b4fe,#f9a8d4);
+    margin-top: -20px;
+}
+.sc img{
+    height: 400px;
+    width: 650px;
+}
+.course{
+    background-image: linear-gradient(to right,#fbcfe8, #e9d5ff);
+}
+.crsc{
+    height: 70px;
+    width: 580px;
+    border: 40px dashed cornflowerblue;
+}
+.textcl{
+    color:#122b70;
+}
+.margin{
+    margin-left: 500px;
+}
+.mrl{
+    margin-top: 100px;
+}
+.ed p{
+    height: 65px;
+    width: 120px;
+    background-image: linear-gradient(#fce7f3,#f3e8ff);
+    padding: 10px;
+    font-size: 12px;
+    box-shadow:1px 5px 10px #52D983;
+    border-radius: 10px  10px;
+    text-align: center;
+}
+.call a:hover{
+    background-image: linear-gradient(to right, #c084fc,#f472b6);
+    color: #f0fdf4;
+}
+li a:hover{
+    background-color: #4ade80;
+}
+.herpower img{
+    height:600px;
+    width: 900px;
+
+}
+.crsc1{
+    height: 70px;
+    width: 900px;
+    border: 40px solid cornflowerblue;
+}
+.joy img{
+    height: 200px;
+    width: 235px;
+}
+.fot img{
+    height: 200px;
+}
+.hpptex{
+    background-image: linear-gradient(to right,#F273B5, #52D983,#9333ea);
+}
+.im{
+    background-color: #fbcfe8;
+}
